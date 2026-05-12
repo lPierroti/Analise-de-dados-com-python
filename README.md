@@ -21,6 +21,9 @@ O projeto utiliza uma base de dados disponibilizada para fins educacionais, arma
 
 ```text
 data/cancelamentos.csv
+```
+
+A base contém informações relacionadas ao comportamento de clientes e seus respectivos status de cancelamento.
 
 ---
 
