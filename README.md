@@ -15,6 +15,13 @@ O objetivo do projeto é explorar os dados, identificar comportamentos relevante
 
 ---
 
+## Base de dados
+
+O projeto utiliza uma base de dados disponibilizada para fins educacionais, armazenada na pasta:
+
+```text
+data/cancelamentos.csv
+
 ## Principais atividades realizadas
 
 - Tratamento e limpeza de dados
