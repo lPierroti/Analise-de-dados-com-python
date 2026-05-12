@@ -1,3 +1,5 @@
+# Análise de dados com Python
+
 Projeto desenvolvido em Python com foco em análise de dados e identificação de padrões relacionados ao cancelamento de clientes (churn).
 
 O objetivo do projeto é explorar os dados, identificar comportamentos relevantes e gerar insights que possam auxiliar na compreensão dos fatores associados à evasão de clientes.
