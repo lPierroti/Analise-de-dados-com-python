@@ -1,4 +1,4 @@
-# Estudo de análise de dados com Python
+# Análise de Cancelamento de Clientes com Python
 
 Projeto desenvolvido em Python com foco em análise de dados e identificação de padrões relacionados ao cancelamento de clientes (churn).
 
